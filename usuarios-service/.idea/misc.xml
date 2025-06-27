@@ -4,20 +4,9 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK" />
-=======
-        <option value="$PROJECT_DIR$/gpus-service/pom.xml" />
-        <option value="$PROJECT_DIR$/usuarios-service/pom.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_24" default="true" project-jdk-name="openjdk-24" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/out" />
-  </component>
->>>>>>> 135f08395afa1f0f4f29fedf4f515b6c9cf6d00b
 </project>

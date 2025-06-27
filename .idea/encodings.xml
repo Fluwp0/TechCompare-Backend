@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+<<<<<<< HEAD
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+=======
+    <file url="file://$PROJECT_DIR$/gpus-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usuarios-service/src/main/java" charset="UTF-8" />
+>>>>>>> 135f08395afa1f0f4f29fedf4f515b6c9cf6d00b
   </component>
 </project>
