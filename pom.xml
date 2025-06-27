@@ -1,16 +1,26 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
+<<<<<<< HEAD
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
                              http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.techcompare</groupId>
   <artifactId>usuarios-service</artifactId>
+=======
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+    http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.techcompare</groupId>
+  <artifactId>gpus-service</artifactId>
+>>>>>>> c25d221dcec2fa2a96feb9316986642277cfd53e
   <version>0.0.1-SNAPSHOT</version>
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
     <version>3.1.0</version>
   </parent>
+<<<<<<< HEAD
 
   <properties>
     <java.version>17</java.version>
@@ -18,6 +28,9 @@
 
   <dependencies>
     <!-- Web + JPA + H2 -->
+=======
+  <dependencies>
+>>>>>>> c25d221dcec2fa2a96feb9316986642277cfd53e
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-web</artifactId>
@@ -32,11 +45,15 @@
       <scope>runtime</scope>
     </dependency>
 
+<<<<<<< HEAD
     <!-- Spring HATEOAS -->
+=======
+>>>>>>> c25d221dcec2fa2a96feb9316986642277cfd53e
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-hateoas</artifactId>
     </dependency>
+<<<<<<< HEAD
   </dependencies>
 
   <build>
@@ -55,3 +72,11 @@
   </build>
 </project>
 
+=======
+
+  </dependencies>
+  <properties>
+    <java.version>17</java.version>
+  </properties>
+</project>
+>>>>>>> c25d221dcec2fa2a96feb9316986642277cfd53e

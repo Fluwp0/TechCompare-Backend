@@ -1,24 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-<<<<<<< HEAD
     <annotationProcessing>
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="usuarios-service" />
+        <module name="gpus-service" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="usuarios-service" options="-parameters" />
+      <module name="gpus-service" options="-parameters" />
     </option>
-=======
-    <bytecodeTargetLevel>
-      <module name="gpus-service" target="17" />
-    </bytecodeTargetLevel>
->>>>>>> c25d221dcec2fa2a96feb9316986642277cfd53e
   </component>
 </project>
